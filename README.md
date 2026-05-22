@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: [https://ai.studio/apps/170ab8c1-a6e4-40b8-ac6e-08692586190f](https://syarikex-universe-141315713775.europe-west2.run.app/)
+View your app in AI Studio: (https://syarikex-universe-141315713775.europe-west2.run.app/)
 
 ## Run Locally
 
