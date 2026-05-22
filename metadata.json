@@ -1,0 +1,6 @@
+{
+  "name": "SyarikeX Universe",
+  "description": "A futuristic premium AI-powered digital ecosystem and platform for innovation, research, and education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
