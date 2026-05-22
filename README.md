@@ -2,7 +2,7 @@
 <img width="1200" height="475" alt="GHBanner" src="file:///C:/Users/SyarikeX-/Downloads/SyarikeX%20Universe_fichiers/portrait_isaac.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# Run and deploy your SyarikeX Universe app
 
 This contains everything you need to run your app locally.
 
